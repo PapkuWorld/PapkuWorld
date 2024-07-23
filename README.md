@@ -21,9 +21,6 @@ I am a Business Developer, currently learning about technology and at the same t
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PapkuWorld&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-**Sypport Me**
-<p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Example" /></a><a href="https://ko-fi.com/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Example" /></a></p><br><br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=4000&pause=1000&color=2D77BD&background=B72CB800&width=435&lines=Hope+you+enjoyed+xd!)](https://git.io/typing-svg)
 
 
