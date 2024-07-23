@@ -24,7 +24,7 @@ I am a Business Developer, currently learning about technology and at the same t
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=4000&pause=1000&color=2D77BD&background=B72CB800&width=435&lines=Hope+you+enjoyed+xd!)](https://git.io/typing-svg)
 
 
-![Puzzle Miku](https://github.com/user-attachments/assets/d5dbd3ba-3dbf-4c6f-94b1-0105047c4f11)
+![Puzzle Miku](https://github.com/user-attachments/assets/f89e63f3-bced-4b81-9630-42bc26663d58)
 
 
 ---
