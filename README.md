@@ -5,9 +5,13 @@
 I am a Business Developer, currently learning about technology and at the same time creating whatever I can. Profile Under Construction so is all the Projects!! My interests include the following:
 
 Artificial Intelligence 
+
 Cybersecurity 
+
 Software Development 
+
 Web Development 
+
 Malware Analysis (I hate doing this)
 
 I have a long journey ahead maybe learning and developing of my tools will take 5-10 years. By that time will my softwares become irrilivant? I dont think so, I should be built along side as mordern technology advances.
