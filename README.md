@@ -23,6 +23,10 @@ I am a Business Developer, currently learning about technology and at the same t
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=4000&pause=1000&color=2D77BD&background=B72CB800&width=435&lines=Hope+you+enjoyed+xd!)](https://git.io/typing-svg)
 
+# 💻 Cool Stuff:
+![Puzzle Miku](https://github.com/user-attachments/assets/d5dbd3ba-3dbf-4c6f-94b1-0105047c4f11)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=PapkuWorld&icon=0&color=3)](https://visitcount.itsvg.in)
 
