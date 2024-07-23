@@ -4,15 +4,15 @@
 # 💫 About Me:
 I am a Business Developer, currently learning about technology and at the same time creating whatever I can. Profile Under Construction so is all the Projects!! My interests include the following:
 
-**Artificial Intelligence** 
+**Artificial Intelligence**✅ 
 
-**Cybersecurity** 
+**Cybersecurity**✅ 
 
-**Software Development** 
+**Software Development**✅ 
 
-**Web Development**
+**Web Development**✅
 
-**Malware Analysis** (I hate doing this lol)
+**Malware Analysis**✅
 
 I have a long journey ahead maybe learning and developing of my tools will take 5-10 years. By that time will my softwares become irrilivant? I dont think so, I should be built along side as mordern technology advances.
 This is what I have in mind for the Softwares, All my software will be incorporated to work and benfit each other together.
