@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am a Business Developer, currently learning about technology and at the same time developing whatever I can. Profile Under Development so is all the Projects!!
+I am a Business Developer, currently learning about technology and at the same time creating whatever I can. Profile Under Development so is all the Projects!!
 
 
 ## 🌐 Socials:
