@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am a Business Developer, currently learning about technology and at the same time creating whatever I can. Profile Under Construction so is all the Projects!! My interests include the following:
+I am a Business Developer, currently learning about technology and at the same time creating whatever I can. Profile Under Construction so is all the Projects also building a Organization!! My interests include the following:
 
 **Artificial Intelligence**✅ 
 
