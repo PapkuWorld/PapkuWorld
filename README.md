@@ -48,7 +48,6 @@ This is what I have in mind for the Softwares, All my software will be incorpora
 
 ![Puzzle Miku](https://github.com/user-attachments/assets/f89e63f3-bced-4b81-9630-42bc26663d58)
 
-[Uploading Generated with https---github.com-Platane-snk-root{--cb-#1b1f230a;--cs-purple;--ce-#ebedf0;--c0-#ebedf0;--c1-#9be9a8;--c2-#40.url…]()
 
 
 ---
