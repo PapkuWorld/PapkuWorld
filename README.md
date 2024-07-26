@@ -19,7 +19,7 @@ This is what I have in mind for the Softwares, All my software will be incorpora
 
 ## Learning Progress / Rank:
 
-[HackTheBox](https://app.hackthebox.com/profile/2024846) [TryHackMe](https://tryhackme.com/p/PapkuWorld)
+<img src="https://tryhackme-badges.s3.amazonaws.com/PapkuWorld.png" alt="HackTheBox">[HackTheBox](https://app.hackthebox.com/profile/2024846) <img src="https://tryhackme-badges.s3.amazonaws.com/PapkuWorld.png" alt="TryHackMe">[TryHackMe](https://tryhackme.com/p/PapkuWorld)
 
 
 ## 🌐 Socials:
