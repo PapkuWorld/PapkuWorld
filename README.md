@@ -19,7 +19,7 @@ This is what I have in mind for the Softwares, All my software will be incorpora
 
 ## 🐱‍💻 Learning Progress / Rank:
 
-<img src="https://www.hackthebox.com/badge/image/2024846" alt="HackTheBox"> <img src="https://tryhackme-badges.s3.amazonaws.com/PapkuWorld.png" alt="TryHackMe"> <img src="https://blueteamlabs.online/images/mainpic.png" alt="BlueTeamLabsOnline">  
+<img src="https://www.hackthebox.com/badge/image/2024846" alt="HackTheBox"> <img src="https://tryhackme-badges.s3.amazonaws.com/PapkuWorld.png" alt="TryHackMe"> <img src="https://blueteamlabs.online/images/mainpic.png" alt="BlueTeamLabsOnline width="40" height="40">  
 
 
 ## 🌐 Socials:
