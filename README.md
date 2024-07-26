@@ -17,7 +17,7 @@ I am a Business Developer, currently learning about technology and at the same t
 I have a long journey ahead maybe learning and developing of my tools will take 5-10 years. By that time will my softwares become irrilivant? I dont think so, I should be built along side as mordern technology advances.
 This is what I have in mind for the Softwares, All my software will be incorporated to work and benfit each other together. I am a messy person this might take even longer lol.
 
-## Learning Progress / Rank:
+## 🐱‍💻 Learning Progress / Rank:
 
 <img src="https://www.hackthebox.com/badge/image/2024846" alt="HackTheBox"> <img src="https://tryhackme-badges.s3.amazonaws.com/PapkuWorld.png" alt="TryHackMe">
 
