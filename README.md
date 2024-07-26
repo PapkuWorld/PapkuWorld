@@ -18,15 +18,15 @@ I have a long journey ahead maybe learning and developing of my tools will take 
 This is what I have in mind for the Softwares, All my software will be incorporated to work and benfit each other together. I am a messy person this might take even longer lol.
 
 ## Learning Progress:
-[![Hack The Box](https://www.hackthebox.eu/badge/image/YOUR_HTB_ID)](https://www.hackthebox.eu/profile/YOUR_HTB_ID)
+[![Hack The Box](https://www.hackthebox.eu/badge/image/YOUR_HTB_ID)](https://www.hackthebox.eu/profile/#2024846)
 
-Check out my Hack The Box profile [here](https://www.hackthebox.eu/profile/YOUR_HTB_ID).
+Check out my Hack The Box profile [here](https://www.hackthebox.eu/profile/#2024846).
 
 ## TryHackMe
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME_USERNAME.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/PapkuWorld.png)
 
-Check out my TryHackMe profile [here](https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME).
+Check out my TryHackMe profile [here](https://tryhackme.com/p/PapkuWorld).
 
 
 ## 🌐 Socials:
