@@ -40,9 +40,6 @@ This is what I have in mind for the Software, all my software will be incorporat
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-readme-streak-stats.herokuapp.com/?user=PapkuWorld&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PapkuWorld&icon=0&color=3)](https://visitcount.itsvg.in)
 
