@@ -41,7 +41,7 @@ This is what I have in mind for the Software, all my software will be incorporat
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-[![PapkuWorld's GitHub stats](https://github-readme-stats.vercel.app/api?username=PapkuWorld&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PapkuWorld&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PapkuWorld&icon=0&color=3)](https://visitcount.itsvg.in)
