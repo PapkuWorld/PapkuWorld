@@ -15,7 +15,7 @@ I am a Polymath, currently learning about technology and creating whatever I can
 **Network Engineering**✅
 
 I have a long journey ahead; learning and developing my tools will take 5-10 years. By then, will my software become obsolete? I should not be built alongside as modern technology advances.
-This is what I have in mind for the Software, all my software will be incorporated to work and benefit each other together. I am a messy person with "Schizopernia", "Bipolar Disorder", Dissociative Identity Disorder, OCD, General Anxiety Disorder, and "Autism" and I am do not take medication, so this might take even longer lol.
+This is what I have in mind for the Software, all my software will be incorporated to work and benefit each other together. I am a messy person, so this might take even longer lol.
 
 ## 🐱‍💻 Learning Progress / Rank:
 
