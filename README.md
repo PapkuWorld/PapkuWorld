@@ -14,10 +14,46 @@ I am a Polymath, currently learning about technology and creating whatever I can
 
 **Network Engineering**✅
 
-I have a long journey ahead; learning and developing my tools will take 5-10 years. By then, will my software become obsolete? I should not be built alongside as modern technology advances.
-This is what I have in mind for the Software, all my software will be incorporated to work and benefit each other together. I am a messy person, so this might take even longer lol.
+I have a long journey ahead; learning and developing my tools will take 5-10 years. By then, will my software become obsolete? I should not be built alongside modern technology as it advances.
+This is what I have in mind for the software: all my software will be incorporated to work together and benefit each other. I am a messy person, so this might take even longer lol.
 
-## 🐱‍💻 Learning Progress / Rank:
+## My Mental Health
+
+Autism Level 2 
+Bipolar Type 1 
+Paranoid Schizophrenia 
+OCD 
+GAD
+Dissociative Identity Disorder 
+
+
+Despite these challenges, I can function and live a productive life with my support. I think people with mental health and neurodivergence can see the world in ways a neurotypical person can't.
+
+
+
+
+
+
+## 🐱‍💻 Learning Progress
+
+Education:
+
+(Private)
+Self Thaught
+(Private)
+(Private)
+(Private)
+
+
+Hobbies:
+
+Computer Science, Cybersecurity, Artificial Intelligence, Journalism, Chemistry, Military, Linguistics, 
+
+
+
+
+
+Rank:
 
 <img src="https://www.hackthebox.com/badge/image/2024846" alt="HackTheBox"> <img src="https://tryhackme-badges.s3.amazonaws.com/PapkuWorld.png" alt="TryHackMe"> <a href="#">
     <img src="https://blueteamlabs.online/images/mainpic.png" alt="BlueTeamLabs" width="70" height="70">
