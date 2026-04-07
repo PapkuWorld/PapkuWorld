@@ -19,12 +19,12 @@ This is what I have in mind for the software: all my software will be incorporat
 
 ## My Mental Health
 
-Autism Level 2 
-Bipolar Type 1 
-Paranoid Schizophrenia 
-OCD 
-GAD
-Dissociative Identity Disorder 
+**Autism Level 2** 
+**Bipolar Type 1** 
+**Paranoid Schizophrenia** 
+**OCD** 
+**GAD**
+**Dissociative Identity Disorder** 
 
 
 Despite these challenges, I can function and live a productive life with my support. I think people with mental health and neurodivergence can see the world in ways a neurotypical person can't.
@@ -38,16 +38,16 @@ Despite these challenges, I can function and live a productive life with my supp
 
 Education:
 
-(Private)
-Self Thaught
-(Private)
-(Private)
-(Private)
+**(Private)**
+**Self-Taught**
+**(Private)**
+**(Private)**
+**(Private)**
 
 
 Hobbies:
 
-Computer Science, Cybersecurity, Artificial Intelligence, Journalism, Chemistry, Military, Linguistics, 
+**Computer Science, Cybersecurity, Artificial Intelligence, Journalism, Chemistry, Military, Linguistics,** 
 
 
 
