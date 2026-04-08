@@ -53,12 +53,6 @@ Hobbies:
 
 
 
-Rank:
-
-<img src="https://www.hackthebox.com/badge/image/2024846" alt="HackTheBox"> <img src="https://tryhackme-badges.s3.amazonaws.com/PapkuWorld.png" alt="TryHackMe"> <a href="#">
-    <img src="https://blueteamlabs.online/images/mainpic.png" alt="BlueTeamLabs" width="70" height="70">
-</a>  
-![LeetCode Stats](https://leetcard.jacoblin.cool/PapkuWorld?theme=nord&font=Smooch%20Sans)
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/PapkuWorld) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/PapkuWorld) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/PapkuWorld) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/PapkuWorld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PapkuWorld) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@PapkuWorld) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/PapkuWorld) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/PapkuWorld) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PapkuWorld) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/PapkuWorld) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@PapkuWorld) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/PapkuWorld) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PapkuWorld) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@PapkuWorld) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/PapkuWorld) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@PapkuWorld) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:papku@protonmail.ch) 
