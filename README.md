@@ -64,9 +64,27 @@ University
 **(Private)**
 PostGrad 
 
-Hobbies:
+Hobbies and interests:
 
-**Computer Science, Cybersecurity, Artificial Intelligence, Journalism, Chemistry, Military, Linguistics,and various more** 
+Longevity - 
+
+Journalism - politics, whats happening in the world, climate change, activism, spirituality, religion, 
+
+Construction - building farming enclosures, repairing water systems,  
+
+Fitness - Cardio,
+
+Chemistry - building elements, product manifacturing,  
+
+Military - weapons modifications, tactics, weapons systems, simulation training, Security & Safety,   
+
+Linguistics - hindi, bengali, english, french, arabic, spanish, japanese, 
+
+Music - Ableton Live, NI Various, Dubstep, Brostep, Trance, Vocaloid - miku and gumi, 
+
+Video Production - MikuMikuDance, Whiteboard, 
+
+and various more** 
 
 
 
