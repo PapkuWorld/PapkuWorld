@@ -17,23 +17,28 @@ I am a Polymath, currently learning about technology and creating whatever I can
 I have a long journey ahead; learning and developing my tools will take 5-10 years. By then, will my software become obsolete? I should not be built alongside modern technology as it advances.
 This is what I have in mind for the software: all my software will be incorporated to work together and benefit each other. I am a messy person, so this might take even longer lol.
 
-## My Mental Health
+## My Mental Health (How it effects me)
 
-**Autism Level 2** 
+**Autism Level 2**🧠 
+I have 74 iq and have trouble socializing with people and large group gatherings, Online I am talkative if I trust someone and get to know the person. Ability to see the world in a way that others cant and I have terrible time following routine even tho I create routine. 
 
-**Bipolar Type 1** 
+**Bipolar Type 1**🧠 
+I have extreme peroids of sadness and I would cry for no reason but I am also extremely energentic and overproductive at times! 
 
-**Paranoid Schizophrenia** 
+**Paranoid Schizophrenia**🧠 
+This has been a big one, Ever since I turned 18 I got extremely paranoid and that paranoia lead to psychosis, hearing voices and seeing things and having unrealistic thaughts. I no longer feel paranoid and I have come a long way in trying to fix my paranoia.  
 
-**OCD** 
+**OCD**🧠 
+This makes me check the locks a few times before leaving the house, I also check the sinks and stove as many times as possible to make sure its turned off.
 
-**GAD**
+**GAD**🧠
+This has been recent development, I had a very traumatic moment in my life and I became afraid of people and going outside, Since then I have recived extensive theraphy for me to feel comfortable around people.
 
-**Dissociative Identity Disorder** 
+**Dissociative Identity Disorder**🧠 
+I didnt even know i had DID or what it was called, but a psychologist explained to me that its real and what he observed that I am suffering from this, Well he said he could find one more alter, But I went home and started digging and found 8 diffirent people living inside my head. When I am stressed out DID has more prevelance and the alters take control and i would even have temporary black out and it feels like i could see myself from inside myself and someone else is operating and extreme gaps in memory. I have seen been able to merge all the identitites and I dont remember their names but i do have their interests somewhat integrated in me. 
 
 
-
-Despite these challenges, I can function and live a productive life with my support. I think people with mental health and neurodivergence can see the world in ways a neurotypical person can't.
+Despite these challenges, I can function and live a productive life with my support system. I think people with mental health and neurodivergence can see the world in ways a neurotypical person can't and we can accomplish great things.
 
 
 
@@ -45,15 +50,23 @@ Despite these challenges, I can function and live a productive life with my supp
 Education:
 
 **(Private)**
-**Self-Taught**
-**(Private)**
-**(Private)**
-**(Private)**
+Highschool
 
+**Self-Taught**
+Various
+
+**(Private)**
+College
+
+**(Private)**
+University
+
+**(Private)**
+PostGrad 
 
 Hobbies:
 
-**Computer Science, Cybersecurity, Artificial Intelligence, Journalism, Chemistry, Military, Linguistics,** 
+**Computer Science, Cybersecurity, Artificial Intelligence, Journalism, Chemistry, Military, Linguistics,and various more** 
 
 
 
